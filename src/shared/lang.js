@@ -1,0 +1,31 @@
+module.exports = {
+    vi: {
+        email: 'Email',
+        password: 'Password',
+        login: 'Đăng nhập',
+        facebook: 'Facebook',
+        google: 'Google',
+        phone_number: 'Số điện thoại',
+        register: 'Đăng ký',
+        forgot: 'Quên mật khẩu?',
+        fullname: 'Họ và tên',
+        address: 'Địa chỉ',
+        avatar: 'Ảnh đại diện',
+        update: 'Cập nhật',
+        book: 'Sách',
+        author: 'Tác giả',
+        user: 'Người dùng',
+        category: 'Thể loại',
+        filter: 'Lọc',
+        count: 'Số lượng',
+        name: 'Tên',
+        description: 'Mô tả',
+        price: 'Giá',
+        price_cover: 'Giá trang bìa',
+        book_image: 'Ảnh bìa',
+        finished: 'Hoàn thành!',
+        token:'Mã xác thực',
+        get_token:'Lấy mã xác thực',
+        confirm:'Xác nhận'
+    }
+}
